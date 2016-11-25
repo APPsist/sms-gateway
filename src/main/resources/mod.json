@@ -1,0 +1,12 @@
+{
+	"main" : "de.appsist.service.sms.MainVerticle",
+
+	"description" : "Connector for SMS gateways.",
+	"licenses" : ["The Apache Software License Version 2.0"],
+	"author" : "Simon Schwantzer",
+
+	"keywords": ["appsist", "service", "sms"],
+	"homepage": "http://www.appsist.de/",
+
+	"auto-redeploy": true
+}

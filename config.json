@@ -1,0 +1,14 @@
+{
+  "activeProvider":"sms77.de",
+  "maxLength":160,
+  "providers":{
+    "sms77.de":{
+      "endpoint":"https://gateway.sms77.de/",
+      "userName":"<user>",
+      "apiKey":"<api>",
+      "type":"quality",
+      "from":"APPsist"
+    }
+  },
+  "debug":true
+}
